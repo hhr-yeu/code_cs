@@ -89,7 +89,7 @@ onMounted(() => {
   }
 
   #center,table {
-    width:80%;
+    width: 60%;
     margin: auto;
   }
 
