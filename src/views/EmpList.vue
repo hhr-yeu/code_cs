@@ -102,7 +102,7 @@ onMounted(() => {
   }
 
   input,select {
-    width: 17%;
+    width: 170%;
     padding: 10px;
     margin-right: 30px;
     border: 1px solid #ccc;
