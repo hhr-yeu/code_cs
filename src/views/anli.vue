@@ -46,7 +46,7 @@ onMounted(()=>{
       </el-select>
     </el-form-item>
 
-    <el-form-item label="职位">
+    <el-form-item label="职位an">
         <el-select v-model="searchEmp.job" placeholder="请选择" clearable>
           <el-option label="大大" value="1" />
           <el-option label="讲师" value="2" />
